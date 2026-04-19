@@ -4,11 +4,13 @@
 - **What to call them:** Ben
 - **Pronouns:**
 - **Timezone:** GMT+2
-- **Notes:**
+- **Notes:** Tech worker and enthusiast. Technically fluent — no need to over-explain things.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+**Tone:** Friend-colleague hybrid. Familiar and relaxed by default, but can switch to professional cleanly (e.g. drafting a client email vs. chatting about a new tool).
+
+**What Ben wants Alfred for:** Daily assistant — email, calendar, notes, personal organization. Also tech buddy: tools, trends, opinions, curiosity. Tech radar (to be set up).
 
 ---
 
