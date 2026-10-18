@@ -1,0 +1,3 @@
+[main/sessions/main/0d5888f2-2076-466d-aebf-f715dda22bbc#L33] Assistant: ✅ Daily tech radar available to Tech/Tech Radar/Dailies/2026/10/2026-10-10 on Obsidian
+[main/sessions/main/27a7f474-600f-46ea-a8d6-d6bac9e9b9b7#L109] User: [OpenClaw exec completion] Disable automatic completion turns with tools.exec.notifyOnExit=false; check per-agent overrides. Background exec and process poll remain available.
+[main/sessions/main/27a7f474-600f-46ea-a8d6-d6bac9e9b9b7#L110] Assistant: Clean sweep — all 20 workers exited 0. Today's Tech Radar summarization finished fully. Articles 7-9 visible in the output: - 🧠 Programming Isn't Special - 🤖 Jev (non-text AI model) valued at $7.5B weeks after launch - 🐍 Lifeguard (truncated — likely a Python/stats 

@@ -1,0 +1,11 @@
+[main/sessions/main/0d5888f2-2076-466d-aebf-f715dda22bbc#L29] Assistant: ✅ Daily tech radar available to Tech/Tech Radar/Dailies/2026/10/2026-10-06 on Obsidian
+[main/sessions/main/27a7f474-600f-46ea-a8d6-d6bac9e9b9b7#L105] User: [OpenClaw exec completion] Disable automatic completion turns with tools.exec.notifyOnExit=false; check per-agent overrides. Background exec and process poll remain available.
+[main/sessions/main/27a7f474-600f-46ea-a8d6-d6bac9e9b9b7#L106] Assistant: Today's Tech Radar summarization batch completed with mixed results: **8 of 11 workers succeeded (exit 0).** Articles processed include: - Lightweight AI model to rival Chinese models at lower compute cost - "Anthropic reported diary entry to police, woman faces felony
+[main/sessions/main/27a7f474-600f-46ea-a8d6-d6bac9e9b9b7#L106] Assistant: Keep an eye on whether the Obsidian note lands.
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L146] Assistant: Ranking complete — 20 articles ranked. Now selecting the top 10 (deduplicating the Reflection "Beam" story which appeared in both TechCrunch and HN).
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L187] Assistant: All 10 bodies saved. Now writing titles and running summarization sequentially (one at a time, as the local LLM handles one request at a time).
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L260] Assistant: Article 1 summarized (🤖, ~30s). The LLM works but is slow (~30s each). I'll run the remaining 9 sequentially in a fully-detached process so it survives, then poll.
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L273] Assistant: I found an off-by-one bug in my loop (it's pairing title 1 with body 2). Let me kill and fix.
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L297] Assistant: The corrected loop is now running with the right title→body pairing. Each summary takes ~30s, so 9 remaining articles ≈ 4–5 minutes. Let me poll periodically.
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L446] Assistant: All 10 summaries complete. Now reading results and building the daily note.
+[main/sessions/main/2e3fef6b-4bbf-4bf6-81e4-793b63598a46#L467] Assistant: ✅ Daily tech radar available to Tech/Tech Radar/Dailies/2026/10/2026-10-06 on Obsidian

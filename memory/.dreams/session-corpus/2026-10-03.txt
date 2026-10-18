@@ -1,0 +1,5 @@
+[main/sessions/main/0d5888f2-2076-466d-aebf-f715dda22bbc#L27] Assistant: ✅ Daily tech radar available to Tech/Tech Radar/Dailies/2026/10/2026-10-03 on Obsidian
+[main/sessions/main/55c5293c-734a-4bde-94c7-74ef53898c6e#L114] Assistant: ✅ Daily tech radar available to Tech/Tech Radar/Dailies/2026/10/2026-10-03 on Obsidian
+[main/sessions/main/dd4b8669-a4b4-4d49-bf2e-9d03b77653b8#L5] User: Calcule les résultats du tusmo, remplis le Google sheet et donne moi les résultats
+[main/sessions/main/dd4b8669-a4b4-4d49-bf2e-9d03b77653b8#L76] Assistant: C'est fait, le sheet est rempli ✅ **Semaine 31 — Dim 27/09 → Sam 03/10** Joueurs actifs : Manon, Clara, Ben (Martin, Audrey et Antho n'ont rien posté cette semaine). Scores (Mot/Tusmo) : - **Dim** : Manon 3/6 · Clara 7/7 · Ben 3/5 - **Lun** : Manon 4/5 · Clara 3/3 · Be
+[main/sessions/main/dd4b8669-a4b4-4d49-bf2e-9d03b77653b8#L76] Assistant: chambrage (« Mimi joue pas, c'est un chat ») mais aucun score — je l'ai laissé vide.

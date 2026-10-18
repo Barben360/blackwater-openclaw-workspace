@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "microsoft-excel",
+  "installedVersion": "1.0.4",
+  "installedAt": 1784977752299,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "93c22f1b074f411655a15cbfb22afa40c803484fbf0f55cfdf6964c34462cb6b",
+    "integrity": "sha256-k8IvGwdPQRZVoVy/sir6QMgDSE+/D1XP32lkw0Riy2s="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "d55720c803090d93bae65b0eac68c1f35d2ca88262e610227d84bab6f6491c30"
+  }
+}

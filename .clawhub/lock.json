@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "skills": {
+    "imap": {
+      "version": "1.0.0",
+      "installedAt": 1777392532262
+    },
+    "microsoft-excel": {
+      "version": "1.0.4",
+      "installedAt": 1784977752299,
+      "registry": "https://clawhub.ai",
+      "artifact": {
+        "kind": "archive",
+        "sha256": "93c22f1b074f411655a15cbfb22afa40c803484fbf0f55cfdf6964c34462cb6b",
+        "integrity": "sha256-k8IvGwdPQRZVoVy/sir6QMgDSE+/D1XP32lkw0Riy2s="
+      },
+      "skillFile": {
+        "path": "SKILL.md",
+        "sha256": "d55720c803090d93bae65b0eac68c1f35d2ca88262e610227d84bab6f6491c30"
+      },
+      "verification": {
+        "schema": "clawhub.skill.verify.v1",
+        "ok": true,
+        "decision": "pass",
+        "reasons": [],
+        "card": {
+          "available": true,
+          "path": "skill-card.md",
+          "url": "https://wry-manatee-359.convex.site/api/v1/skills/microsoft-excel/card?ownerHandle=byungkyu&version=1.0.4",
+          "sha256": "a153e666e387d2e9e79ed9d4dead194b3672f5268d3c02bc343d63f44188e791",
+          "size": 2750,
+          "contentType": "text/markdown; charset=utf-8"
+        },
+        "artifact": {
+          "sourceFingerprint": "f5851268f47bfe4c7199d680b7894709871736fefa2cd2db66b13120a6273fb7",
+          "bundleFingerprints": [
+            "8b41ef7a0357e614f03c320828beb6830a38a0c035ec27599e590bc900802bd8",
+            "860efc3fde8f78210b0a02bc7fa952331363ef571110a490558b4636048602f5"
+          ],
+          "files": [
+            {
+              "path": "SKILL.md",
+              "size": 14005,
+              "sha256": "d55720c803090d93bae65b0eac68c1f35d2ca88262e610227d84bab6f6491c30",
+              "contentType": "text/markdown"
+            }
+          ]
+        },
+        "provenance": {
+          "source": "unavailable",
+          "reason": "No server-resolved GitHub import provenance is stored for this version."
+        },
+        "security": {
+          "status": "clean",
+          "passed": true,
+          "rawStatus": "clean",
+          "verdict": "benign",
+          "confidence": "medium",
+          "summary": "This appears to be a disclosed Microsoft Excel API helper skill that uses a Maton API key and does not show evidence of hidden or unrelated behavior.",
+          "model": "gpt-5.5",
+          "checkedAt": 1783658017353,
+          "signals": {
+            "staticScan": {
+              "status": "clean",
+              "rawStatus": "clean",
+              "reasonCodes": [],
+              "summary": "No suspicious patterns detected.",
+              "engineVersion": "v2.4.22",
+              "checkedAt": 1777591179456
+            },
+            "virusTotal": {
+              "status": "clean",
+              "rawStatus": "clean",
+              "verdict": "benign",
+              "analysis": "Type: OpenClaw Skill\nName: microsoft-excel\nVersion: 1.0.4\n\nThe microsoft-excel skill bundle provides a standard integration for interacting with Microsoft Excel via the Maton API proxy (api.maton.ai). The SKILL.md file contains well-documented instructions and Python examples using urllib to perform REST operations on workbooks and worksheets. It includes explicit safety instructions for the AI agent to seek user approval for write operations and correctly handles authentication via the MATON_API_KEY environment variable without any signs of malicious intent or obfuscation.",
+              "source": "palm",
+              "scanner": "code_insight",
+              "engineStats": {
+                "harmless": 0,
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 63
+              },
+              "checkedAt": 1779161959546
+            },
+            "skillSpector": {
+              "status": "clean",
+              "rawStatus": "clean",
+              "score": 0,
+              "severity": "LOW",
+              "recommendation": "SAFE",
+              "issueCount": 0,
+              "scannerVersion": "2.3.5",
+              "summary": null,
+              "error": null,
+              "checkedAt": 1783657965755
+            },
+            "dependencyRegistry": null
+          }
+        },
+        "signature": {
+          "status": "unsigned"
+        }
+      }
+    }
+  }
+}
